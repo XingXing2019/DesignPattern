@@ -6,5 +6,7 @@ namespace SqlHelper
     public abstract class DbConnection
     {
         public abstract void Open();
+
+        public abstract void Close();
     }
 }

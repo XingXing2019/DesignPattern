@@ -8,5 +8,10 @@ namespace SqlHelper
         {
             Console.WriteLine("MySql Connection Open");
         }
+
+        public override void Close()
+        {
+            Console.WriteLine("MySql Connection Close");
+        }
     }
 }

@@ -9,5 +9,9 @@ namespace SqlHelper
         {
             Console.WriteLine("Sql Server Connection Open");
         }
+        public override void Close()
+        {
+            Console.WriteLine("Sql Server Connection Close");
+        }
     }
 }

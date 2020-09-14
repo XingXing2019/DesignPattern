@@ -6,8 +6,9 @@ namespace SqlHelper
     {
         static void Main(string[] args)
         {
-            var sqlHeler = new SqlHelper();
-            sqlHeler.OpenDbConnection();
+            var helper = new SqlHelper();
+            helper.OpenDbConnection();
+            helper.CloseDbConnection();
         }
     }
 }

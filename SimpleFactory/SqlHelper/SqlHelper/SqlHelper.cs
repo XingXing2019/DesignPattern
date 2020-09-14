@@ -10,5 +10,11 @@ namespace SqlHelper
             var conn = DbConnectionFactory.CreateDbConnection();
             conn.Open();
         }
+
+        public void CloseDbConnection()
+        {
+            var conn = DbConnectionFactory.CreateDbConnection();
+            conn.Close();
+        }
     }
 }
