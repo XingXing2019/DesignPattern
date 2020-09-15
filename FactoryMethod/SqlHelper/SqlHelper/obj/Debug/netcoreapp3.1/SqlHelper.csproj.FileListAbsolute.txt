@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.exe
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.deps.json
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.runtimeconfig.json
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.runtimeconfig.dev.json
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.dll
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\bin\Debug\netcoreapp3.1\SqlHelper.pdb
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.csprojAssemblyReference.cache
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.AssemblyInfo.cs
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.dll
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.pdb
+F:\C#\DesignPattern\FactoryMethod\SqlHelper\SqlHelper\obj\Debug\netcoreapp3.1\SqlHelper.genruntimeconfig.cache

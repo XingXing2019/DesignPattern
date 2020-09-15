@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VT4YKVPaVIjcDkkIRPnjqYpzO225welruEGdxUpa0u1UhoDmSG27UwH7/pbrQzb9kUUJhXzptRQPTun8+ECBmA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\FactoryMethod\\SqlHelper\\SqlHelper\\SqlHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
