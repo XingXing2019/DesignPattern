@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.exe
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.deps.json
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.runtimeconfig.json
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.runtimeconfig.dev.json
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.dll
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\bin\Debug\netcoreapp3.1\ShapeAndColor.pdb
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.csprojAssemblyReference.cache
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.AssemblyInfo.cs
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.dll
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.pdb
+F:\C#\DesignPattern\AbstractFactory\ShapeAndColor\ShapeAndColor\obj\Debug\netcoreapp3.1\ShapeAndColor.genruntimeconfig.cache
