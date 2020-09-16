@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.exe
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.deps.json
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.runtimeconfig.json
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.runtimeconfig.dev.json
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.dll
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\bin\Debug\netcoreapp3.1\JunkFood.pdb
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.csprojAssemblyReference.cache
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.AssemblyInfo.cs
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.dll
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.pdb
+F:\C#\DesignPattern\SimpleFactory\JunkFood\JunkFood\obj\Debug\netcoreapp3.1\JunkFood.genruntimeconfig.cache

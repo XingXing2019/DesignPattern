@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KETSbWqb6oh9btgs7akhVCnnzSn9SY5X0Y1tgze1UFZmYjoOSbar50BNZ6b3WDqfhWkL9HhRn9XM7tZgI72E+A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\SimpleFactory\\JunkFood\\JunkFood\\JunkFood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
