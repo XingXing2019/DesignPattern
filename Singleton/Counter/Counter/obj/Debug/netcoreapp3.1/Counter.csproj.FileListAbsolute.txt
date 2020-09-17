@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.exe
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.deps.json
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.json
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.runtimeconfig.dev.json
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.dll
+F:\C#\DesignPattern\Singleton\Counter\Counter\bin\Debug\netcoreapp3.1\Counter.pdb
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.AssemblyInfo.cs
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.dll
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.pdb
+F:\C#\DesignPattern\Singleton\Counter\Counter\obj\Debug\netcoreapp3.1\Counter.genruntimeconfig.cache
