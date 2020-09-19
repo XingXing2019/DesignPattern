@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.exe
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.deps.json
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.json
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.runtimeconfig.dev.json
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.dll
+F:\C#\DesignPattern\Builder\Mobile\Mobile\bin\Debug\netcoreapp3.1\Mobile.pdb
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.AssemblyInfo.cs
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.dll
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.pdb
+F:\C#\DesignPattern\Builder\Mobile\Mobile\obj\Debug\netcoreapp3.1\Mobile.genruntimeconfig.cache
