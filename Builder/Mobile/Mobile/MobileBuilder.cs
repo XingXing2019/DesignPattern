@@ -33,12 +33,13 @@ namespace Mobile
 
         public Mobile BuildMobile()
         {
-            return new Mobile
+            _mobile =  new Mobile
             {
                 Cpu = _cpu ?? new Cpu {Type = "4 Core"},
                 Memory = _memory ?? new Memory {Type = "8G"},
                 Screen = _screen ?? new Screen {Type = "7 inch"},
             };
+            return _mobile;
         }
     }
 }
