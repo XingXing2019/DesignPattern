@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.exe
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.deps.json
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.runtimeconfig.json
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.runtimeconfig.dev.json
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.dll
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\bin\Debug\netcoreapp3.1\SdReader.pdb
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.AssemblyInfo.cs
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.dll
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.pdb
+F:\C#\DesignPattern\Adapter\SdReader\SdReader\obj\Debug\netcoreapp3.1\SdReader.genruntimeconfig.cache

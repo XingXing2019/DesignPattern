@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.exe
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.deps.json
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.runtimeconfig.json
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.runtimeconfig.dev.json
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.dll
+F:\C#\DesignPattern\Prototype\Resume\Resume\bin\Debug\netcoreapp3.1\Resume.pdb
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.AssemblyInfo.cs
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.dll
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.pdb
+F:\C#\DesignPattern\Prototype\Resume\Resume\obj\Debug\netcoreapp3.1\Resume.genruntimeconfig.cache

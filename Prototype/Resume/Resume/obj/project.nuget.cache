@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCFDc09hr4rvL8iDiQn0eDQmK4kumCX9AY5w8Bdk5pZgayckv8UC1fXi7PVg8Lrqm68IhlrEiJuNI7Y+uqwa+g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Prototype\\Resume\\Resume\\Resume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
