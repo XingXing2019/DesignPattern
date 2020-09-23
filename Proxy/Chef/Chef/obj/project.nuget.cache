@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4tUxuEf7JqG0bUdCCWrcpZGrTBcObYVbo3TYe3G+UGejvKomJtEkU+/M/iJ2BmO5qmokg0OwuFnohK/UT1bLg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Proxy\\Chef\\Chef\\Chef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.exe
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.deps.json
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.runtimeconfig.json
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.runtimeconfig.dev.json
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.dll
+F:\C#\DesignPattern\Proxy\Chef\Chef\bin\Debug\netcoreapp3.1\Chef.pdb
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.AssemblyInfo.cs
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.dll
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.pdb
+F:\C#\DesignPattern\Proxy\Chef\Chef\obj\Debug\netcoreapp3.1\Chef.genruntimeconfig.cache
