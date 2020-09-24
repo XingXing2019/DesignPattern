@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.exe
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.deps.json
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.runtimeconfig.json
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.runtimeconfig.dev.json
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.dll
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\bin\Debug\netcoreapp3.1\HomeControl.pdb
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.AssemblyInfo.cs
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.dll
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.pdb
+F:\C#\DesignPattern\Facade\HomeControl\HomeControl\obj\Debug\netcoreapp3.1\HomeControl.genruntimeconfig.cache
