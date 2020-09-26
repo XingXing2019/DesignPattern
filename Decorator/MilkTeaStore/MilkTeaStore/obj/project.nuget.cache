@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I6HA/7guOFaPvV4HoxwLn2wOvSqSQl0/7izxjc8n+l9wCUvZXBGFfPWfTiAFjNPX1hqwOrBYFeD0OQfjKS15Vw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Decorator\\MilkTeaStore\\MilkTeaStore\\MilkTeaStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

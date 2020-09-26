@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.exe
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.deps.json
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.runtimeconfig.json
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.runtimeconfig.dev.json
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.dll
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\bin\Debug\netcoreapp3.1\MilkTeaStore.pdb
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.AssemblyInfo.cs
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.dll
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.pdb
+F:\C#\DesignPattern\Decorator\MilkTeaStore\MilkTeaStore\obj\Debug\netcoreapp3.1\MilkTeaStore.genruntimeconfig.cache
