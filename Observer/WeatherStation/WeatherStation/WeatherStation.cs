@@ -17,7 +17,8 @@ namespace WeatherStation
         public void SetTemperature(int temperature)
         {
             _temperature = temperature;
-            NotifyObservers();
+            var weather = new Weather(_temperature, _dampness);
+            NotifyObservers(this, weather);
         }
 
         public int GetTemperature()
@@ -28,7 +29,8 @@ namespace WeatherStation
         public void SetDampness(int dampness)
         {
             _dampness = dampness;
-            NotifyObservers();
+            var weather = new Weather(_temperature, _dampness);
+            NotifyObservers(this, weather);
         }
 
         public int GetDampness()
@@ -46,10 +48,10 @@ namespace WeatherStation
             _observers.Remove(observer);
         }
 
-        public void NotifyObservers()
+        public void NotifyObservers(IWeatherStation weatherStation, IWeather weather)
         {
             foreach (var observer in _observers)
-                observer.Action();
+                observer.Action(weatherStation, weather);
         }
     }
 }

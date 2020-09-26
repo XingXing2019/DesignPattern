@@ -11,6 +11,6 @@ namespace WeatherStation
 
         void AddObserver(IObserver observer);
         void RemoveObserver(IObserver observer);
-        void NotifyObservers();
+        void NotifyObservers(IWeatherStation weatherStation, IWeather weather);
     }
 }

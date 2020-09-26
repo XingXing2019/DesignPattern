@@ -7,8 +7,8 @@ namespace WeatherStation
         static void Main(string[] args)
         {
             var weatherStation = new WeatherStation();
-            var temperatureObserver = new TemperatureObserver(weatherStation);
-            var dampnessObserver = new DampnessObserver(weatherStation);
+            var temperatureObserver = new TemperatureObserver();
+            var dampnessObserver = new DampnessObserver();
 
             weatherStation.AddObserver(temperatureObserver);
             weatherStation.AddObserver(dampnessObserver);

@@ -4,18 +4,11 @@ namespace WeatherStation
 {
     public class TemperatureObserver : IObserver
     {
-        private readonly IWeatherStation _weatherStation;
-
-        public TemperatureObserver(IWeatherStation weatherStation)
+        public void Action(IWeatherStation weatherStation, IWeather weather)
         {
-            _weatherStation = weatherStation;
-        }
-
-        public void Action()
-        {
-            if(_weatherStation.GetTemperature() > 30)
+            if(weather.Temperature > 30)
                 Console.WriteLine("Turn on air conditioner");
-            else if(_weatherStation.GetTemperature() < 5)
+            else if(weather.Temperature < 5)
                 Console.WriteLine("Turn on heater");
             else
                 Console.WriteLine("Do nothing");

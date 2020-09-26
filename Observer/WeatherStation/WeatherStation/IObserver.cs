@@ -2,6 +2,6 @@
 {
     public interface IObserver
     {
-        void Action();
+        void Action(IWeatherStation weatherStation, IWeather weather);
     }
 }
