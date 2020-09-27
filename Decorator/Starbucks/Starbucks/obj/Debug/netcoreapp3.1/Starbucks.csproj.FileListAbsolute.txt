@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.exe
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.deps.json
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.runtimeconfig.json
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.runtimeconfig.dev.json
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.dll
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\bin\Debug\netcoreapp3.1\Starbucks.pdb
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.AssemblyInfo.cs
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.dll
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.pdb
+F:\C#\DesignPattern\Decorator\Starbucks\Starbucks\obj\Debug\netcoreapp3.1\Starbucks.genruntimeconfig.cache

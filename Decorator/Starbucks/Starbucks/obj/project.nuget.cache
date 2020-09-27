@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1nBacHdGgFSMFjMahOAyw2xL3pBmkwaA6qAbSaeHGTSstBvYO3Yksu+zyVxC6RpEwCxO7NUtC9/a11YLCLLwg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Decorator\\Starbucks\\Starbucks\\Starbucks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
