@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "im9olRKjz8nt+AtlkRODg0kEdSOZtEgCp+DOyEjB7toF8dTfr7BoCNRoSsOa/effy8NwRk2jRxe75FaqHLG7Fg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Bridge\\MilkTea\\MilkTea\\MilkTea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.exe
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.deps.json
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.runtimeconfig.json
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.runtimeconfig.dev.json
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.dll
+C:\Users\xxing\source\repos\MilkTea\MilkTea\bin\Debug\netcoreapp3.1\MilkTea.pdb
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.csprojAssemblyReference.cache
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.AssemblyInfoInputs.cache
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.AssemblyInfo.cs
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.csproj.CoreCompileInputs.cache
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.dll
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.pdb
+C:\Users\xxing\source\repos\MilkTea\MilkTea\obj\Debug\netcoreapp3.1\MilkTea.genruntimeconfig.cache
