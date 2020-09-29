@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.exe
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.deps.json
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.runtimeconfig.json
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.runtimeconfig.dev.json
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.dll
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\bin\Debug\netcoreapp3.1\Catalogue.pdb
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.AssemblyInfo.cs
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.dll
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.pdb
+F:\C#\DesignPattern\Composite\Catalogue\Catalogue\obj\Debug\netcoreapp3.1\Catalogue.genruntimeconfig.cache
