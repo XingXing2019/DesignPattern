@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.exe
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.deps.json
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.json
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.dev.json
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.dll
+F:\C#\DesignPattern\Flyweight\Printer\Printer\bin\Debug\netcoreapp3.1\Printer.pdb
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfo.cs
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.dll
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.pdb
+F:\C#\DesignPattern\Flyweight\Printer\Printer\obj\Debug\netcoreapp3.1\Printer.genruntimeconfig.cache
