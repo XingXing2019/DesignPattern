@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwCIifgQ3AV2giXFDvk/y2a+1duRU2tWRRE3eIcuV8bTaRx8vSSsTPffAv6qqRRLyY4NNUOVrRcWM1jIXrshkQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\SimpleFactory\\PizzaOrder\\PizzaOrder\\PizzaOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
