@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.exe
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.deps.json
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.runtimeconfig.json
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.runtimeconfig.dev.json
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.dll
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\bin\Debug\netcoreapp3.1\AnimalToFridge.pdb
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.csprojAssemblyReference.cache
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.AssemblyInfo.cs
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.dll
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.pdb
+F:\C#\DesignPattern\TemplateMethod\AnimalToFridge\AnimalToFridge\obj\Debug\netcoreapp3.1\AnimalToFridge.genruntimeconfig.cache
