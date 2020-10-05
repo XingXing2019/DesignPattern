@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.csprojAssemblyReference.cache
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.AssemblyInfo.cs
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.exe
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.deps.json
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.runtimeconfig.json
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.runtimeconfig.dev.json
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.dll
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\bin\Debug\netcoreapp3.1\PizzaOrder.pdb
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.dll
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.pdb
+F:\C#\DesignPattern\FactoryMethod\PizzaOrder\PizzaOrder\obj\Debug\netcoreapp3.1\PizzaOrder.genruntimeconfig.cache
