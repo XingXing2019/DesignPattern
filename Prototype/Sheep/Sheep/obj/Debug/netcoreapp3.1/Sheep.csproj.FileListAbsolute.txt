@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.exe
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.deps.json
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.runtimeconfig.json
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.runtimeconfig.dev.json
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.dll
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\bin\Debug\netcoreapp3.1\Sheep.pdb
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.AssemblyInfo.cs
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.dll
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.pdb
+F:\C#\DesignPattern\Prototype\Sheep\Sheep\obj\Debug\netcoreapp3.1\Sheep.genruntimeconfig.cache
