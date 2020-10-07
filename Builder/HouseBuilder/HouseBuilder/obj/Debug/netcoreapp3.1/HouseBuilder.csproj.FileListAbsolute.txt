@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.exe
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.deps.json
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.json
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.runtimeconfig.dev.json
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.dll
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\bin\Debug\netcoreapp3.1\HouseBuilder.pdb
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.AssemblyInfo.cs
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.dll
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.pdb
+F:\C#\DesignPattern\Builder\HouseBuilder\HouseBuilder\obj\Debug\netcoreapp3.1\HouseBuilder.genruntimeconfig.cache
