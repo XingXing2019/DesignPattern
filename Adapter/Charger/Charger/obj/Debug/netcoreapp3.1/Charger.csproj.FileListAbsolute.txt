@@ -1,0 +1,13 @@
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.exe
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.deps.json
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.runtimeconfig.json
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.runtimeconfig.dev.json
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.dll
+F:\C#\DesignPattern\Adapter\Charger\Charger\bin\Debug\netcoreapp3.1\Charger.pdb
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.csprojAssemblyReference.cache
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.AssemblyInfoInputs.cache
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.AssemblyInfo.cs
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.csproj.CoreCompileInputs.cache
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.dll
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.pdb
+F:\C#\DesignPattern\Adapter\Charger\Charger\obj\Debug\netcoreapp3.1\Charger.genruntimeconfig.cache

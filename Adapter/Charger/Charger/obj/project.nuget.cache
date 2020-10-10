@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERe8iPnFr6R8ErgAyCCt9X5DUH8QBqAmA3zn7rFCi1M25wRZ+ToSsbonXRN8ZxxTj24OqswmPMe+IQ4vMoRaZQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\DesignPattern\\Adapter\\Charger\\Charger\\Charger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
